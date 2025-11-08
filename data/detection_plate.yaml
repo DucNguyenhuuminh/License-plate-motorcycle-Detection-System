@@ -1,0 +1,7 @@
+path: /path/to/license_plate_detection/data/license_plate
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 1
+names: ['license plate']
